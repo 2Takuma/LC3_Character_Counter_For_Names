@@ -1,0 +1,30 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ADDCOU                  30FC
+//	ASC_LA                  315A
+//	ASC_LZ                  315B
+//	ASC_NL                  315D
+//	ASC_SP                  315C
+//	ASC_UA                  3158
+//	ASC_UZ                  3159
+//	COUNTS                  3136
+//	ERR                     3096
+//	INDONE                  308B
+//	INLOOP                  3072
+//	INP                     302D
+//	INPUT                   3064
+//	INVALID                 3093
+//	IN_LEN                  315E
+//	NEXTCHAR                312C
+//	OUTDONE                 312E
+//	OUTLOOP                 3117
+//	OUTPUT                  310F
+//	OUTPUT1                 315F
+//	OUTPUT2                 3169
+//	PROMPT                  3000
+//	RSA                     3150
+//	VALCONT                 3101
+//	VALEXIT                 3107
+//	VALIDATE                30C2
+//	VALLOOP                 30CD
+//	VALTLC                  30E8
